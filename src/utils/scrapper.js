@@ -38,17 +38,19 @@ const repeat = async (page, browser) => {
   }
 
   try {
-    const nextPageHref = await page.$eval(
-      '.paginador a i.fa-chevron-right',
-      (el) => el.parentElement.href
-    );
+    const nextPageButton = await page.$('.paginador a i.fa-chevron-right');
 
-    if (nextPageHref) {
+    if (nextPageButton) {
+      const nextPageHref = await page.$eval(
+        '.paginador a i.fa-chevron-right',
+        (el) => el.parentElement.href
+      );
+
       console.log(`Next page: ${nextPageHref}`);
       await page.goto(nextPageHref);
       await repeat(page, browser);
     } else {
-      console.log('Finish.');
+      console.log('Finish. No more pages.');
       await browser.close();
     }
   } catch (error) {
