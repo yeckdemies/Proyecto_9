@@ -24,13 +24,9 @@ WEB SCRAPPING + API REST
     ```
 
 ## Extracción de datos: método Web Scrapping
-1. Posicionamos la terminal en el directorio 
+1. Lanzamos el siguiente script
     ```sh
-    cd Proyecto_9/src/utils/
-    ```
-2. Lanzamos el siguiente script
-    ```sh
-    node scrapperLauncher.js
+    npm run scrapping
     ```
 Este proceso crea el archivo productos.json en el mismo directorio donde lo ejecutamos.
 
