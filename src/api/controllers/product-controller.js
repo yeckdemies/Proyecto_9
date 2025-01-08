@@ -1,11 +1,8 @@
 const Product = require('../models/product-model');
-const loadProductsFromFile = require('../../utils/loadFileProducts');
+const products = require('../../utils/products.json');
 
 const insertManyProducts = async (req, res, next) => {
   try {
-    const filePath = '../../utils/products.json';
-    const products = loadProductsFromFile(filePath);
-
     if (products.length === 0) {
       return res.status(400).json('No products to insert');
     }
