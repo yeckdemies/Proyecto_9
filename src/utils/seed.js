@@ -3,6 +3,7 @@ const fs = require('fs');
 const Product = require('../api/models/product-model');
 const { connectDB } = require('../config/db');
 require('dotenv').config();
+const loadProductsFromFile = require('./loadFileProducts');
 
 mongoose
   .connect(
@@ -13,17 +14,22 @@ mongoose
 
 const loadSeedData = async () => {
   try {
-    const products = JSON.parse(fs.readFileSync('products.json', 'utf-8'));
+    const filePath = './products.json';
+    const products = loadProductsFromFile(filePath);
+
+    if (products.length === 0) {
+      return res.status(400).json('No products to insert');
+    }
 
     await Product.deleteMany();
-    console.log('Colección de productos limpiada.');
+    console.log('Cleaned collection.');
 
     await Product.insertMany(products);
-    console.log('Datos insertados en la base de datos.');
+    console.log('All products inserted.');
 
     process.exit(0);
   } catch (error) {
-    console.error('Error al cargar la semilla:', error);
+    console.error('Error inserting products');
     process.exit(1);
   }
 };

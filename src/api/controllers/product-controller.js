@@ -1,8 +1,15 @@
 const Product = require('../models/product-model');
-const products = require('../../utils/products.json');
+const loadProductsFromFile = require('../../utils/loadFileProducts');
 
 const insertManyProducts = async (req, res, next) => {
   try {
+    const filePath = '../../utils/products.json';
+    const products = loadProductsFromFile(filePath);
+
+    if (products.length === 0) {
+      return res.status(400).json('No products to insert');
+    }
+    await Product.deleteMany();
     await Product.insertMany(products);
     return res.status(201).json('All products inserted');
   } catch (error) {
