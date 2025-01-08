@@ -1,0 +1,577 @@
+[
+  {
+    "title": "CURSO DE PROGRAMACION CON RUST",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154909.GIF"
+  },
+  {
+    "title": "50 ALGORITMOS QUE TODO PROGRAMADOR DEBE CONOCER",
+    "price": 35,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673839.GIF"
+  },
+  {
+    "title": "JAVASCRIPT COMO NUNCA ANTES SE LO HABIAN CONTADO",
+    "price": 36,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673810.GIF"
+  },
+  {
+    "title": "DESARROLLO WEB  DESDE EL ENTORNO CLIENTE EL",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788411/978841192001.GIF"
+  },
+  {
+    "title": "HTML Y CSS COMO NUNCA ANTES SE LO HABIAMOS CONTADO",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673653.GIF"
+  },
+  {
+    "title": "APRENDIZAJE AUTOMATICO Y PROFUNDO EN PYTHON",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788418/978841897185.GIF"
+  },
+  {
+    "title": "INTERNET DE LAS COSAS IOT CON ESP MANUAL PRACTICO",
+    "price": 23,
+    "img": "https://www.librerias-picasso.com/imagenes/9788428/978842834496.GIF"
+  },
+  {
+    "title": "JAVA A FONDO",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673830.GIF"
+  },
+  {
+    "title": "INTRODUCCION A LA PROGRAMACION INFORMATICA",
+    "price": 19,
+    "img": "https://www.librerias-picasso.com/imagenes/9780241/978024142054.GIF"
+  },
+  {
+    "title": "DESARROLLO WEB CON REACT",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154163.GIF"
+  },
+  {
+    "title": "ARDUINO TRUCOS Y SECRETOS 120 IDEAS PARA CREAR SUS PROYECTOS",
+    "price": 32,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672727.GIF"
+  },
+  {
+    "title": "ARDUINO PARA PRINCIPIANTES",
+    "price": 21,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672724.GIF"
+  },
+  {
+    "title": "LIMPIADOR DE CODIGO EL",
+    "price": 32,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154084.GIF"
+  },
+  {
+    "title": "SCRATCH APRENDE A PROGRAMAR JUGANDO",
+    "price": 31,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964763.GIF"
+  },
+  {
+    "title": "INICIACION A ANDROID EN KOTLIN CASOS PRACTICOS",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788428/978842834092.GIF"
+  },
+  {
+    "title": "ARMAS DE DESTRUCCION MATEMATICA",
+    "price": 19,
+    "img": "https://www.librerias-picasso.com/imagenes/9788494/978849474084.GIF"
+  },
+  {
+    "title": "CURSO DE PROGRAMACIÓN C/C++",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844153937.GIF"
+  },
+  {
+    "title": "GRAN LIBRO DE HTML5 CSS3 Y JAVASCRIPT EL",
+    "price": 31,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672463.GIF"
+  },
+  {
+    "title": "PYTHON 3 CURSO PRACTICO",
+    "price": 33,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964658.GIF"
+  },
+  {
+    "title": "GRAN LIBRO DE ANDROID AVANZADO EL",
+    "price": 23,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672257.GIF"
+  },
+  {
+    "title": "PROGRAMACION EN C++ PARA INGENIEROS",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788497/978849732485.GIF"
+  },
+  {
+    "title": "NODE JS CURSO PRACTICO",
+    "price": 25,
+    "img": "https://www.librerias-picasso.com/imagenes/9788418/978841897176.GIF"
+  },
+  {
+    "title": "JOOMLA 1 5 A USERS GUIDE",
+    "price": 38,
+    "img": "https://www.librerias-picasso.com/imagenes/9780137/978013701231.GIF"
+  },
+  {
+    "title": "PYTHON PRACTICO",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/images/NOportada.jpg"
+  },
+  {
+    "title": "C/C++ CURSO DE PROGRAMACION  5  EDICION",
+    "price": 41,
+    "img": "https://www.librerias-picasso.com/images/NOportada.jpg"
+  },
+  {
+    "title": "MANUAL PRACTICO DE VISUAL VRML",
+    "price": 10,
+    "img": "https://www.librerias-picasso.com/images/NOportada.jpg"
+  },
+  {
+    "title": "DESARROLLAR APLICACIONES WEB CON PHP Y SYMFONY",
+    "price": 38,
+    "img": "https://www.librerias-picasso.com/imagenes/9782409/978240904600.GIF"
+  },
+  {
+    "title": "LENGUAJE DE PROGRAMACION RUST",
+    "price": 39,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673751.GIF"
+  },
+  {
+    "title": "ANALISIS Y MINERIA DE TEXTOS CON PYTHON",
+    "price": 19,
+    "img": "https://www.librerias-picasso.com/imagenes/9788412/978841254673.GIF"
+  },
+  {
+    "title": "CIRCUITOS LOGICOS DIGITALES",
+    "price": 39,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673595.GIF"
+  },
+  {
+    "title": "PROGRAMACIÓN EN GO",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673449.GIF"
+  },
+  {
+    "title": "TRANSFORMACION DIGITAL MEDIANTE CLOUD",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154637.GIF"
+  },
+  {
+    "title": "LARAVEL CURSO COMPLETO",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788418/978841897177.GIF"
+  },
+  {
+    "title": "JSON CURSO PRACTICO",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788418/978841897175.GIF"
+  },
+  {
+    "title": "DISEÑO DE SISTEMAS",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154555.GIF"
+  },
+  {
+    "title": "PROGRAMACION DE SERVICIOS Y PROCESOS EN C#",
+    "price": 22,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673392.GIF"
+  },
+  {
+    "title": "PROGRAMACION Y DESARROLLO DE ALGORITMOS CON C++",
+    "price": 18,
+    "img": "https://www.librerias-picasso.com/images/NOportada.jpg"
+  },
+  {
+    "title": "CURSO DE DESARROLLO WEB HTML CSS Y JAVASCRIPT",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154414.GIF"
+  },
+  {
+    "title": "PHP 8 CURSO PRÁCTICO DE FORMACIÓN",
+    "price": 14,
+    "img": "https://www.librerias-picasso.com/imagenes/9788412/978841228612.GIF"
+  },
+  {
+    "title": "CURSO DE PROGRAMACION ANDROID CON KOTLIN",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154327.GIF"
+  },
+  {
+    "title": "ARDUINO PROGRAMACION Y ROBOTICA",
+    "price": 23,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154335.GIF"
+  },
+  {
+    "title": "115 EJERCICIOS RESUELTOS DE PROGRAMACION C++",
+    "price": 31,
+    "img": "https://www.librerias-picasso.com/imagenes/9788418/978841855129.GIF"
+  },
+  {
+    "title": "GOOGLE ASSISTANT",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842673217.GIF"
+  },
+  {
+    "title": "GRAN LIBRO DE ANDROID EL",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/images/NOportada.jpg"
+  },
+  {
+    "title": "ALGORITMOS GENETICOS CON PYTHON",
+    "price": 15,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672985.GIF"
+  },
+  {
+    "title": "FUNDAMENTOS DE PROGRAMACION",
+    "price": 86,
+    "img": "https://www.librerias-picasso.com/imagenes/9786071/978607151468.GIF"
+  },
+  {
+    "title": "PRINCIPIOS DE PROGRAMACION CON SCRATCH",
+    "price": 12,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672924.GIF"
+  },
+  {
+    "title": "PROGRAMACION JAVA JDBC Y SWING",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964952.GIF"
+  },
+  {
+    "title": "PROCESSING",
+    "price": 25,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672791.GIF"
+  },
+  {
+    "title": "RUBY ON RAILS  APRENDER A CREAR APLICACIONES WEB DESDE CERO",
+    "price": 35,
+    "img": "https://www.librerias-picasso.com/imagenes/9788494/978849489729.GIF"
+  },
+  {
+    "title": "DESARROLLO WEB EN ENTORNO CLIENTE CON JAVASCRIPT",
+    "price": 30,
+    "img": "https://www.librerias-picasso.com/imagenes/9788417/978841728940.GIF"
+  },
+  {
+    "title": "CURSO DE PROGRAMACIÓN PYTHON",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154116.GIF"
+  },
+  {
+    "title": "PROGRAMACION DE CONTROLADORES AVANZADOS SIMATIC S7-1500",
+    "price": 33,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672734.GIF"
+  },
+  {
+    "title": "PROGRAMACION ORIENTADA A OBJETOS EN JAVA",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964805.GIF"
+  },
+  {
+    "title": "ALGORITMOS",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154098.GIF"
+  },
+  {
+    "title": "APRENDER ARDUINO PROTOTIPADO Y PROGRAMACION AVANZADA",
+    "price": 21,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672680.GIF"
+  },
+  {
+    "title": "PROGRAMACION ESTRUCTURADA DE AUTOMATAS PROGRAMABLES CON GRAFCET",
+    "price": 21,
+    "img": "https://www.librerias-picasso.com/imagenes/9788428/978842834138.GIF"
+  },
+  {
+    "title": "INTERNET DE LAS COSAS IOT CON ARDUINO",
+    "price": 20,
+    "img": "https://www.librerias-picasso.com/imagenes/9788428/978842834186.GIF"
+  },
+  {
+    "title": "SOLIDWORKS 2018",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154064.GIF"
+  },
+  {
+    "title": "HTML 5 2",
+    "price": 29,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844154069.GIF"
+  },
+  {
+    "title": "PYTHON APLICACIONES PRACTICAS",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964758.GIF"
+  },
+  {
+    "title": "MICROSERVICIOS. UN ENFOQUE INTEGRADO",
+    "price": 25,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964765.GIF"
+  },
+  {
+    "title": "ARDUINO 2018 CURSO PRACTICO",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964745.GIF"
+  },
+  {
+    "title": "PROGRAMACION ORIENTADA A OBJETOS CON C++",
+    "price": 41,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964754.GIF"
+  },
+  {
+    "title": "LEGO EV3 PROGRAMACIÓN DE ROBOTS",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964738.GIF"
+  },
+  {
+    "title": "ORACLE 12C SQL",
+    "price": 23,
+    "img": "https://www.librerias-picasso.com/imagenes/9788494/978849471704.GIF"
+  },
+  {
+    "title": "JAVA. CURSO PRÁCTICO DE FORMACIÓN",
+    "price": 19,
+    "img": "https://www.librerias-picasso.com/imagenes/9788494/978849471706.GIF"
+  },
+  {
+    "title": "JAVA 9",
+    "price": 75,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844153993.GIF"
+  },
+  {
+    "title": "APLICACIONES GRÁFICAS CON PYTHON 3",
+    "price": 36,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964726.GIF"
+  },
+  {
+    "title": "ESTÉTICA EN VIDEOJUEGOS",
+    "price": 19,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964728.GIF"
+  },
+  {
+    "title": "JAVA 9",
+    "price": 19,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844153943.GIF"
+  },
+  {
+    "title": "MONITOREO CONTROL Y ADQUISICION DE DATOS CON ARDUINO Y VISUAL BASIC NET",
+    "price": 19,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672567.GIF"
+  },
+  {
+    "title": "EJERCICIOS PRÁCTICOS CON RASPBERRY PI",
+    "price": 39,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672450.GIF"
+  },
+  {
+    "title": "LENGUAJE ENSAMBLADOR",
+    "price": 14,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672466.GIF"
+  },
+  {
+    "title": "PROGRAMACION ORIENTADA A OBJETOS CON JAVA USANDO BLUEJ",
+    "price": 64,
+    "img": "https://www.librerias-picasso.com/imagenes/9788490/978849035531.GIF"
+  },
+  {
+    "title": "APRENDER PROGRAMAR ANDROID",
+    "price": 21,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672405.GIF"
+  },
+  {
+    "title": "LENGUAJE DE PROGRAMACIÓN CON JAVA",
+    "price": 22,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672386.GIF"
+  },
+  {
+    "title": "HTML5 CSS3 Y JQUERY CURSO PRÁCTICO",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964623.GIF"
+  },
+  {
+    "title": "ROBÓTICA Y DOMÓTICA BÁSICA CON ARDUINO",
+    "price": 26,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964609.GIF"
+  },
+  {
+    "title": "PYTHON PASO A PASO",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964611.GIF"
+  },
+  {
+    "title": "METODOLOGIA DE LA PROGRAMACION",
+    "price": 20,
+    "img": "https://www.librerias-picasso.com/imagenes/9788433/978843385868.GIF"
+  },
+  {
+    "title": "HTML5 CSS Y JAVASCRIPT",
+    "price": 20,
+    "img": "https://www.librerias-picasso.com/imagenes/9788494/978849434509.GIF"
+  },
+  {
+    "title": "HTML5 Y CSS3 PARA DISEÑADORES",
+    "price": 14,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672262.GIF"
+  },
+  {
+    "title": "PROGRAMACION PARA INGENIERIA Y CIENCIAS CON MATLAB Y OCTAVE",
+    "price": 28,
+    "img": "https://www.librerias-picasso.com/imagenes/9788492/978849297088.GIF"
+  },
+  {
+    "title": "JEE 7 A FONDO",
+    "price": 18,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672244.GIF"
+  },
+  {
+    "title": "GRAN LIBRO DE PROGRAMACIÓN PHP PROFESIONAL CON SLIM PARIS Y TWIG EL",
+    "price": 22,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672160.GIF"
+  },
+  {
+    "title": "MÁXIMA UN ENFOQUE PRACTICO",
+    "price": 27,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672144.GIF"
+  },
+  {
+    "title": "APRENDER HTML5 CSS3 Y JAVASCRIPTCON 100 EJERCICIOS",
+    "price": 21,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842672086.GIF"
+  },
+  {
+    "title": "TECNOLOGÍAS Y PROGRAMACIÓN INTEGRATIVAS",
+    "price": 12,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849961136.GIF"
+  },
+  {
+    "title": "CODIGO LIMPIO",
+    "price": 52,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844153210.GIF"
+  },
+  {
+    "title": "PROGRAMACION SHELL APRENDE A PROGRAMAR CON MAS DE 100 EJERCICIOS",
+    "price": 25,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964138.GIF"
+  },
+  {
+    "title": "UML MODELADO DE SOFTWARE PARA PROFESIONALES",
+    "price": 15,
+    "img": "https://www.librerias-picasso.com/imagenes/9788426/978842671795.GIF"
+  },
+  {
+    "title": "TECNOLOGIAS DE LA WEB SEMANTICA",
+    "price": 12,
+    "img": "https://www.librerias-picasso.com/imagenes/9788497/978849788474.GIF"
+  },
+  {
+    "title": "PROGRAMACION EN ORACLE 11G SQL SQL PLUS Y PL/SQL",
+    "price": 39,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964118.GIF"
+  },
+  {
+    "title": "MICROSOFT C# CURSO DE PROGRAMACION",
+    "price": 51,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964068.GIF"
+  },
+  {
+    "title": "VHDL LENGUAJE PARA SINTESIS Y MODELADO DE CIRCUITOS",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964040.GIF"
+  },
+  {
+    "title": "SOLID EDGE ST",
+    "price": 44,
+    "img": "https://www.librerias-picasso.com/images/NOportada.jpg"
+  },
+  {
+    "title": "SOLIDWORKS SIMULATION",
+    "price": 30,
+    "img": "https://www.librerias-picasso.com/imagenes/9788499/978849964006.GIF"
+  },
+  {
+    "title": "GUIA DEFINITIVA DE DJANGO LA",
+    "price": 51,
+    "img": "https://www.librerias-picasso.com/imagenes/9788441/978844152694.GIF"
+  },
+  {
+    "title": "VISUAL BASIC BASICO",
+    "price": 9,
+    "img": "https://www.librerias-picasso.com/imagenes/9788493/978849368960.GIF"
+  },
+  {
+    "title": "DOMINE XHTML 1 0 Y CSS 2 + CD",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788478/978847897893.GIF"
+  },
+  {
+    "title": "INTELIGENCIA ARTIFICIAL",
+    "price": 74,
+    "img": "https://www.librerias-picasso.com/imagenes/9788448/978844815618.GIF"
+  },
+  {
+    "title": "MICROSOFT C# + CD",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788478/978847897813.GIF"
+  },
+  {
+    "title": "TEORIA DE AUTOMATAS LENGUAJES Y COMPUTACION",
+    "price": 49,
+    "img": "https://www.librerias-picasso.com/imagenes/9788478/978847829088.GIF"
+  },
+  {
+    "title": "VISUAL BASIC NET CURSO DE PROGRAMACION + CD ROM",
+    "price": 54,
+    "img": "https://www.librerias-picasso.com/imagenes/9788478/978847897812.GIF"
+  },
+  {
+    "title": "PIENSA EN JAVA",
+    "price": 94,
+    "img": "https://www.librerias-picasso.com/imagenes/9788489/978848966034.GIF"
+  },
+  {
+    "title": "FUNDAMENTOS PROGRAMACION EN C++",
+    "price": 26,
+    "img": "https://www.librerias-picasso.com/imagenes/9788496/978849647711.GIF"
+  },
+  {
+    "title": "PROGRAMACION EN C METODOLOGIA ALGORTIMOS Y ESTRUCTURA DE DATOS",
+    "price": 74,
+    "img": "https://www.librerias-picasso.com/imagenes/9788448/978844819844.GIF"
+  },
+  {
+    "title": "PRIMEROS PASOS CON LINUX PC CUADERNOS",
+    "price": 5,
+    "img": "https://www.librerias-picasso.com/images/NOportada.jpg"
+  },
+  {
+    "title": "UNIX PROGRAMACION AVANZADA",
+    "price": 34,
+    "img": "https://www.librerias-picasso.com/imagenes/9788478/978847897603.GIF"
+  },
+  {
+    "title": "PROBLEMAS RESUELTOS DE PROGRAMACION EN LENGUAJE JAVA",
+    "price": 25,
+    "img": "https://www.librerias-picasso.com/imagenes/9788497/978849732176.GIF"
+  },
+  {
+    "title": "FUNDAMENTOS DE PROGRAMACION PROBLEMAS",
+    "price": 24,
+    "img": "https://www.librerias-picasso.com/imagenes/9788448/978844810700.GIF"
+  },
+  {
+    "title": "APRENDA MICROSOFT VISUAL C++ 6 0 YA",
+    "price": 47,
+    "img": "https://www.librerias-picasso.com/imagenes/9788448/978844812421.GIF"
+  },
+  {
+    "title": "TOMOS DE DELPHI API GRAFICO WIN 32 LOS",
+    "price": 47,
+    "img": "https://www.librerias-picasso.com/imagenes/9788492/978849239263.GIF"
+  },
+  {
+    "title": "98 TRUCOS PRACTICOS PARA WINDOWS 98 GUIA EN 10 MINUTOS O MENOS",
+    "price": 9,
+    "img": "https://www.librerias-picasso.com/imagenes/9788483/978848322066.GIF"
+  }
+]
